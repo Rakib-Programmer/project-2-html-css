@@ -61,7 +61,7 @@ a {
 .section1{
     position:absolute;
     left:15%;
-    top: 50%;
+    top: 300px;
     transform: translate(-15%,-50%);
 }
 .section1 img {
@@ -421,7 +421,7 @@ footer{
 		display: block;
 		justify-content: center;
 		align-items: center;
-		margin-top: -50px;
+		margin-top: -60px;
 		position: absolute;
 		left: 18%;
 		align-content: center;
