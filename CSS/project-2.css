@@ -408,7 +408,7 @@ footer{
 /*   Smart Phone  */
 @media screen and (max-width:767px) {
 	.container{
-		height: 90vh;
+		height: 115vh;
 	}
 	.logo{
 		position: absolute;
@@ -433,7 +433,7 @@ footer{
 	
 	
 	.section1Button{
-		margin-top: 140px;
+		margin-top: 215px;
 		display: block;
 		justify-content: center;
 		align-items: center;
@@ -476,12 +476,16 @@ footer{
 }
 
 @media (max-width:480px) {
+	.container{
+		height: 90vh;
+	}
 	.section1 img{
 		height: 197px;
 		margin-top: 50px;
 	}
 	.section1Button{
 		margin-left: 10%;
+		margin-top: 132px;
 	}
 	.section1Button h1{
 		font-size: 30px;
